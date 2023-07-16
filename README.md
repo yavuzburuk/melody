@@ -1,4 +1,4 @@
-# melody
+# Melody Generator
 Use Melody_Generator.jpynb to create melodies, render them as scores and midi files. Yoı have to choose the progression manually.
 
 The other jpynb files are interim backup files (don't use them).
