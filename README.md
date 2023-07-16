@@ -1,6 +1,8 @@
-# Melody Generator
-Use Melody_Generator.jpynb to create melodies, render them as scores and midi files. Yoı have to choose the progression manually.
+# Melodi Üreticisi
+Melody_Generator.jpynb Python uygulaması melodi üretmekte ve bu melodilerin çıktılarını nota ve midi dosyası olarak vermektedir. Kullanıcı uygulamayı çalıştırırken kullanmak istediği progression değerini (1 ile 6 arasında değişiyor) seçer.
 
-The other jpynb files are interim backup files (don't use them).
+Diğer jpynb dosyaları ara çalışma dosyalarıdır ve yedekleme için kullanılmaktadır. Uygulamayı çalıştırıken kullanılmalarına gerek yoktur.
 
-The code runs on Jupyter notebook running on Anaconda on Windows 11. MuseScore 3 and LilyPond must be installed in the computer to render the scores.
+Uygulamam Windows 11 üzerinde çalışmaktadır. Python için Anaconda üzerinde çalışan Jupyter Notebook kullanılmaktadır. Ürtilen melodilerde notaların görselleştirmesi için MuseScore ve LilyPond uygulamalarının yüklenmiş olması gerekmektedir. 
+
+Melodi Üreticisi Prof.Dr. Barış Bozkurt'un (İzmir Demokrasi Üniversitesi) yürütücülüğünde gerçekleştirilen 121E198 no'lu "Çevrimiçi müzik eğitiminde kullanılma amaçlı öğrenci müzik egzersiz icrası otomatik notlandırma sistemi tasarımı" başlıklı Tübitak 1001 projesi kapsamında, kuralları Doç. Dr. Ozan Baysal (İstanbul Teknik Üniversitesi) tarafından tasarlanmış, Yavuz Buruk (İstanbul Teknik Üniversitesi) tarafından kodu geliştirlmiştir.
